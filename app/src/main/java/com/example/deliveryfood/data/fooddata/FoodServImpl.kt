@@ -1,6 +1,6 @@
 package com.example.deliveryfood.data.fooddata
 
-class FoodServImpl: InterfaceFood {
+class FoodServImpl: InterfaceFood { // для тестов ресайклера
     override fun getFood(): List<Food> {
         return listOf(
             Food("1",""),
