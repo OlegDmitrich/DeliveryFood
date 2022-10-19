@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/basket_bottom_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/food_menu_five.xml" value="0.24909420289855072" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/food_menu_fore.xml" value="0.24909420289855072" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/food_menu_one.xml" value="0.24909420289855072" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/food_menu_three.xml" value="0.24909420289855072" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/food_menu_two.xml" value="0.24909420289855072" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/food_meny_bottom_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/home_food_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/profile_bottom_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/layout/rv_item_food.xml" value="0.2" />
+        <entry key="..\:/DeliveryFood/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
